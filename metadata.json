@@ -1,0 +1,5 @@
+{
+  "name": "Store Request Dashboard",
+  "description": "A mobile-responsive dashboard for tracking store requests, integrated with Google Sheets via Apps Script.",
+  "requestFramePermissions": []
+}
